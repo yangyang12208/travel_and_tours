@@ -1,0 +1,5 @@
+@include('home.partials-hotel.header-css')
+@include('home.partials-hotel.navigation')
+@include('home.partials-hotel.product-details')
+@include('home.partials-hotel.customer-reviews')
+@include('home.partials-hotel.footer')

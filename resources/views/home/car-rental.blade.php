@@ -1,0 +1,5 @@
+@include('home.partials-car-rental.header-css')
+@include('home.partials-car-rental.navigation')
+@include('home.partials-car-rental.product-details')
+@include('home.partials-car-rental.customer-reviews')
+@include('home.partials-car-rental.footer')
